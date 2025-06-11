@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 using Newtonsoft.Json;
 
-namespace Ray1ScriptsExtractor;
+namespace Ray1DataExtractor;
 
 /// <summary>
 /// Serializes a byte array as a hex string
